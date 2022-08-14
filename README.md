@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./agency%20landing%20page/assets/screenshots/Screenshot%20(34).png)
-![](./agency%20landing%20page/assets/screenshots/Screenshot%20(35).png)
-![](./agency%20landing%20page/assets/screenshots/Screenshot%20(36).png)
-![](./agency%20landing%20page/assets/screenshots/Screenshot%20(37).png)
-![](./agency%20landing%20page/assets/screenshots/Screenshot%20(38).png)
-![](./agency%20landing%20page/assets/screenshots/Screenshot%20(39).png)
-![](./agency%20landing%20page/assets/screenshots/Screenshot%20(40).png)
+![](./assets/screenshots/Screenshot%20(34).png)
+![](./assets/screenshots/Screenshot%20(35).png)
+![](./assets/screenshots/Screenshot%20(36).png)
+![](./assets/screenshots/Screenshot%20(37).png)
+![](./assets/screenshots/Screenshot%20(38).png)
+![](./assets/screenshots/Screenshot%20(39).png)
+![](./assets/screenshots/Screenshot%20(40).png)
 
 Some screenshots of my solution
 
